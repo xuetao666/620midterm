@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T16:37:15.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.0.0" etag="UQ1BWO1Xnkf__PbZQ8HB" type="github"><diagram id="Z59l56fVpzAFnkaTGik0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-08T16:44:34.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="qj9Otr0gyoGenuLG8YUf" version="17.0.0" type="github">
+  <diagram id="Z59l56fVpzAFnkaTGik0" name="Page-1">
+    <mxGraphModel dx="911" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HtVpizp1VXYTqSZB8E5i-1" target="HtVpizp1VXYTqSZB8E5i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="HtVpizp1VXYTqSZB8E5i-1" target="HtVpizp1VXYTqSZB8E5i-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="420" />
+              <mxPoint x="640" y="420" />
+              <mxPoint x="640" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-1" value="Group 2 Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="HtVpizp1VXYTqSZB8E5i-2" target="HtVpizp1VXYTqSZB8E5i-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="HtVpizp1VXYTqSZB8E5i-2" target="HtVpizp1VXYTqSZB8E5i-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HtVpizp1VXYTqSZB8E5i-2" target="HtVpizp1VXYTqSZB8E5i-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="260" />
+              <mxPoint x="660" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="240" as="targetPoint" />
+            <mxPoint x="620" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-2" value="Central Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HtVpizp1VXYTqSZB8E5i-4" target="HtVpizp1VXYTqSZB8E5i-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="HtVpizp1VXYTqSZB8E5i-4" target="HtVpizp1VXYTqSZB8E5i-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="120" />
+              <mxPoint x="640" y="120" />
+              <mxPoint x="640" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-4" value="Group 1 Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-7" value="1. Summary Statistics, such as mean, square mean, etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-9" value="1. Summary Statistics, such as mean, square mean, etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-16" value="2. Calculated beta_hat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-17" value="2. Calculated beta_hat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="280" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-27" value="3. Calculated SSE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-28" value="3. Calculated SSE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HtVpizp1VXYTqSZB8E5i-29" value="Regression Output" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
